@@ -4,4 +4,5 @@
 ![Lunar Lander 1](lunar_1.gif)
 
 
-pico-8 cart in Lua -- <a>https://www.lexaloffle.com</a>
+This was a fun beginner project building a lunar lander Pico-8 game in Lua 
+[Lexaloffle](https://www.lexaloffle.com) to see more Pico-8 games.
